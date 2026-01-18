@@ -1,1 +1,1 @@
-# LogiqueCombinatoires
+# LogiqueCombinatoire
